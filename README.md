@@ -6,3 +6,7 @@ Données et scripts utilisés pour générer les graphiques présentés pendant 
 ## Diapositive n°16 (« Les formes de la vulgarisation scientifique ») : ##
 
 ``R CMD BATCH R_commands_frequentation_musees``
+
+## Diapositives n°26 et 27 ##
+
+``wget https://covid.ourworldindata.org/data/owid-covid-data.csv;R CMD BATCH R_commands_exponentielle_Covid``
